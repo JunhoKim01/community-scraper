@@ -1,0 +1,19 @@
+{
+  "name": "commynity-scraper",
+  "version": "1.0.0",
+  "description": "Scrapping title & URL of articles from Korean communities website which contain specific word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunhoKim01/community-scraper.git"
+  },
+  "author": "JunhoKim01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JunhoKim01/community-scraper/issues"
+  },
+  "homepage": "https://github.com/JunhoKim01/community-scraper#readme"
+}
